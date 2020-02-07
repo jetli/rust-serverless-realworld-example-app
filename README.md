@@ -5,3 +5,5 @@ Exemplary real world app built with Rust + Serverless + AWS Lambda + DynamoDB
 - https://github.com/anishkny/realworld-dynamodb-lambda
 - https://github.com/chrisxue815/realworld-aws-lambda-dynamodb-go
 - https://github.com/softprops/serverless-rust
+- https://github.com/awslabs/aws-lambda-rust-runtime
+- https://serverless.com/framework/
